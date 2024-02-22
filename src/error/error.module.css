@@ -1,0 +1,24 @@
+.errorContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  .errorHeading {
+    font-size: 2rem;
+    color: #FF6347; /* Tomato Red */
+  }
+  
+  .errorMessage {
+    font-size: 1.2rem;
+    color: #555;
+    margin-top: 20px;
+  }
+
+  .errorMessage>a{
+      
+  }
+  
